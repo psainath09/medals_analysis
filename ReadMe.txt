@@ -5,4 +5,11 @@ following packages and versions needs to be considered before running
 Python 3.7
 
 packages:
-pandas, numpy, seaborn, matplotlib
+pandas, numpy, matplotlib
+
+
+How to Run?
+
+execute "jupyter notebook" from powershell
+open "Medals Analysis.ipynb" file
+execute each line to see results at every step
